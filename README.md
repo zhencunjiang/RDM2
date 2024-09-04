@@ -1,2 +1,2 @@
-# Produce101_pytorch
-Produce101 for LDCT denoise
+# RDM2_pytorch
+RDM2 for LDCT denoise
